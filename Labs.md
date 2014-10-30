@@ -83,7 +83,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
 1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby)
-1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
+1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/Ruby/tree/master/Zadania%201%2C%202)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
